@@ -3,7 +3,7 @@
 ### Performence metrics 
 ### For CNN Model in file 1
 
-#### Training Accuracy 95%
+#### Training Accuracy 95.5%
 | @@@             | Precision | Recall | F1 Score |
 | --------------- | --------- | ------ | -------- | 
 | NEGATIVE LABEL  | 0.92      | 1.00   | 0.96    |
